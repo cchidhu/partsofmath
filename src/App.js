@@ -1,8 +1,6 @@
-import './tailwind.output.css';
-
 function App() {
   return (
-    <div className="text-purple-700 t">
+    <div className="text-purple-700 text-2xl">
       Math Operations
     </div>
   );
